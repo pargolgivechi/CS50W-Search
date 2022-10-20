@@ -1,0 +1,107 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+body .link {
+  padding: 20px 32px 0 15px;
+}
+
+body .link a {
+  float: right;
+  text-decoration: none;
+  font-size: 14px;
+  color: #000;
+  padding-left: 15px;
+}
+
+body .link a:hover {
+  text-decoration: underline;
+}
+
+body .link #logo {
+  display: block;
+  width: 80px;
+}
+
+body p {
+  color: #d93025;
+  margin: 35px 35px;
+  font-size: 20px;
+}
+
+body .v-line {
+  border-top: #ececec solid 2px;
+}
+
+body #advanced-form {
+  margin: 80px 35px;
+  width: 46%;
+}
+
+body #advanced-form .field {
+  margin-bottom: 10px;
+  display: flex;
+}
+
+body #advanced-form .field .text {
+  width: 16rem;
+}
+
+body #advanced-form .field .form-control {
+  max-width: 40rem;
+}
+
+body #advanced-form .btn-primary {
+  float: right;
+  margin-top: 10px;
+}
+
+body .container {
+  margin: 100px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body .container img {
+  display: block;
+  margin-top: 100px;
+  width: 300px;
+}
+
+body .container form {
+  width: 640px;
+}
+
+body .container form .text-box {
+  display: block;
+  margin: 30px auto;
+  padding: 0 30px;
+  height: 44px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  width: 638px;
+}
+
+body .container form .text-box:hover {
+  box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+  border-color: rgba(223, 225, 229, 0);
+}
+
+body .container form .text-box:focus {
+  outline: none;
+}
+
+body .container form .group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 12px;
+}
+
+body .container form .group .btn:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  border: 1px solid #dadce0;
+}
+
+/*# sourceMappingURL=main-styles.css.map */
