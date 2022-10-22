@@ -2,9 +2,9 @@
 
 A front-end for Google Search, Google Image Search, and Google Advanced Search.
 
-This was Project 0 of Harvard's CS50W course, and served as a quick refresher on working with HTML forms and styling using Sass.
+This is Project 0 of Harvard's CS50W course, a search page that replicates the Google search engine and served as a quick refresher on working with HTML forms and styling using Sass.
 
-### This is a Search page replicating Google Search Engine. [Demo Video](https://youtu.be/cSE-sSatLtU)
+### CS50 Search project Demo Video[Demo Video](https://youtu.be/cSE-sSatLtU)
 
 
 ### Resources
