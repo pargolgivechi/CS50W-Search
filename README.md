@@ -1,10 +1,10 @@
 ## Project 0 Search
 
+### CS50 Search project [Demo Video](https://youtu.be/cSE-sSatLtU)
+
 A front-end for Google Search, Google Image Search, and Google Advanced Search.
 
 This is Project 0 of Harvard's CS50W course, a search page that replicates the Google search engine and served as a quick refresher on working with HTML forms and styling using Sass.
-
-### CS50 Search project [Demo Video](https://youtu.be/cSE-sSatLtU)
 
 
 ### Resources
